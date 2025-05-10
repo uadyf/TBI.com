@@ -10,22 +10,22 @@
 <body>
 
 <div class="banner">
-  <img src="banner toko.jpg" alt="Banner Toko">
+  <img src="../img/banner toko.jpg" alt="Banner Toko">
 </div>
 
 <section class="kategori">
   <h2>Kategori</h2>
   <div class="kategori-wrapper">
     <div class="item">
-      <img src="assets/perkakas.jpg" alt="Perkakas">
+      <img src="../img/perkakas.jpg" alt="Perkakas">
       <p>Perkakas</p>
     </div>
     <div class="item">
-      <img src="assets/kayu.jpg" alt="Kayu">
+      <img src="../img/kayu.jpg" alt="Kayu">
       <p>Kayu</p>
     </div>
     <div class="item">
-      <img src="assets/semen.jpg" alt="Semen">
+      <img src="../img/semen.jpg" alt="Semen">
       <p>Semen</p>
     </div>
   </div>
@@ -36,15 +36,15 @@
   <a href="produk.php"><button>Lihat Semua</button></a>
   <div class="produk-wrapper">
     <div class="item">
-      <img src="assets/palu.jpg" alt="Palu">
+      <img src="../img/palu.jpg" alt="Palu">
       <p>Palu<br><span>Rp100.000</span></p>
     </div>
     <div class="item">
-      <img src="assets/obeng.jpg" alt="Obeng">
+      <img src="../img/obeng.jpg" alt="Obeng">
       <p>Obeng<br><span>Rp85.000</span></p>
     </div>
     <div class="item">
-      <img src="assets/kunci.jpg" alt="Kunci Sok">
+      <img src="../img/kunci sok.jpg" alt="Kunci Sok">
       <p>Kunci Sok<br><span>Rp250.000</span></p>
     </div>
   </div>
@@ -55,15 +55,15 @@
   <a href="produk.php"><button>Lihat Semua</button></a>
   <div class="produk-wrapper">
     <div class="item">
-      <img src="assets/semen2.jpg" alt="Semen">
+      <img src="../img/semen2.jpg" alt="Semen">
       <p>Semen<br><span>Rp10.000.000</span></p>
     </div>
     <div class="item">
-      <img src="assets/baut.jpg" alt="Baut">
+      <img src="../img/baut.jpg" alt="Baut">
       <p>Baut<br><span>Rp500</span></p>
     </div>
     <div class="item">
-      <img src="assets/bor.jpg" alt="Bor">
+      <img src="../img/bor.jpg" alt="Bor">
       <p>Bor<br><span>Rp350.000</span></p>
     </div>
   </div>
@@ -86,8 +86,8 @@
   </div>
   <div class="footer-col">
     <h4>Download Aplikasi</h4>
-    <img src="assets/playstore.png" alt="Play Store" width="130"><br><br>
-    <img src="assets/appstore.png" alt="App Store" width="130">
+    <img src="../img/playstore.png" alt="Play Store" width="130"><br><br>
+    <img src="../img/appstore.png" alt="App Store" width="130">
   </div>
 </footer>
 

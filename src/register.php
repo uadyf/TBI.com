@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div class="container">
     <div class="left">
       <h1>Toko Bangunan Ibu</h1>
-      <img src="assets/pengiriman.png" alt="Gambar">
+      <img src="../img/Mail sent-bro.svg" alt="Gambar">
     </div>
     <div class="right">
       <a href="login.php" class="back-link">← Kembali</a>

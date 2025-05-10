@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div class="container">
     <div class="left">
       <h1>Toko Bangunan Ibu</h1>
-      <img src="assets/elektrik.png" alt="Gambar Teknisi">
+      <img src="../img/Electrician-amico.svg" alt="Gambar Teknisi">
     </div>
     <div class="right">
       <h2>Masuk Akun</h2>
